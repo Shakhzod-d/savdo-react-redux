@@ -1,0 +1,58 @@
+export const data = [
+  {
+    id: 1,
+    title: "banana",
+    desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    img: "https://images.heb.com/is/image/HEBGrocery/000377497",
+    price: "23000",
+  },
+  {
+    id: 2,
+    title: "apple",
+    desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    img: "https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg",
+    price: "20000",
+  },
+  {
+    id: 3,
+    title: "peach",
+    desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    img: "https://billsberryfarm.com/wp-content/uploads/2020/08/peach.png",
+    price: "34000",
+  },
+  {
+    id: 4,
+    title: "grapes",
+    desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    img: "https://www.collinsdictionary.com/images/full/grape_229112122.jpg",
+    price: "75000",
+  },
+  {
+    id: 5,
+    title: "apelsin",
+    desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    img: "https://thumbs.dreamstime.com/b/tangerine-mandarin-orange-apelsin-14741813.jpg",
+    price: "44000",
+  },
+  {
+    id: 6,
+    title: "kiwi",
+    desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    img: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg",
+    price: "32000",
+  },
+  {
+    id: 7,
+    title: "lemon",
+    desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    img: "https://kiranadude.com/wp-content/uploads/2022/03/Lemon.jpg",
+    price: "55000",
+  },
+  {
+    id: 8,
+    title: "papaya",
+    desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    img: "https://m.media-amazon.com/images/I/519YT+ql+3L._AC_.jpg",
+    price: "36000",
+  },
+];
