@@ -9,7 +9,7 @@ import {
   DECREMENT,
   ADD_TO_CART,
 } from "./Actions/ActionTypes";
-import { addProductAction } from "./Actions/ActionCreators";
+
 
 const initialState = {
   fruitsArr: [...data],
