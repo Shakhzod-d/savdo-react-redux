@@ -5,7 +5,7 @@ import { SELECT_A_PRODUCT } from "../Store/Actions/ActionTypes";
 
 const Card = () => {
   const state = useSelector((state) => state);
-  const { fruitsArr, showFruitsArr, seletedItem } = state;
+  const { showFruitsArr } = state;
   const dispatch = useDispatch();
   // console.log(state);
 
