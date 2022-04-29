@@ -8,7 +8,7 @@ import { BsTelegram, BsInstagram, BsFacebook } from "react-icons/bs";
 
 import Header from "./Components/Header";
 import Card from "./Components/Card";
-import Button from "./Components/Button";
+
 import SelectedItemModal from "./Components/SelectedItemModal";
 
 import {
