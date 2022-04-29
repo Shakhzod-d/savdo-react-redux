@@ -15,7 +15,7 @@ const SelectedItemModal = ({ isOpen, onRequestClose }) => {
   const state = useSelector((state) => state);
   const dispatch = useDispatch();
   const { seletedItem, counter, total } = state;
-  const { id, title, desc, img, price } = seletedItem;
+  const { title, desc, img, price } = seletedItem;
   let numberPrice = parseInt(price);
 
   const handleAddItemToCart = () => {
